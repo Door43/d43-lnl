@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lnl:home|Door43 (lnl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lnl|d43-lnl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lnl/archive/master.zip|d43-lnl.zip]]
+
+**Recent Changes**
+{{changes>ns = lnl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lnl|Ethnologue data]]
+
